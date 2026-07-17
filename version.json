@@ -1,4 +1,11 @@
 {
-  "version": "1.0.1",
-  "url": "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https://disk.yandex.ru/d/NZL7eSwSB28VsA"
+  "version": "1.0.0",
+  "url": "https://disk.yandex.ru/d/abcdef123456",
+  "news": [
+    {
+       "tag": "НОВОСТИ",
+       "title": "ОТКРЫТИЕ SPEEK ONLINE",
+       "text": "Добро пожаловать на абсолютно новую копию Radmir CRMP! Мы подготовили стабильный мод, уникальные системы, отличный пинг и отзывчивую администрацию."
+    },
+  ]
 }
