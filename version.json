@@ -1,4 +1,4 @@
 {
   "version": "1.0.1",
-  "url": "https://disk.yandex.ru/d/NZL7eSwSB28VsA"
+  "url": "https://cloud-api.yandex.net/v1/disk/public/resources/download?public_key=https://disk.yandex.ru/d/NZL7eSwSB28VsA"
 }
