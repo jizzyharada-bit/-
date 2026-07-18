@@ -1,11 +1,26 @@
 {
-  "version": "1.0.1",
-  "url": "https://www.mediafire.com/file/759ss8no2hc6fim/RADMIR_CRMP.zip/file",
+  "version": "1.0.0",
+  "launcher_url": "https://github.com/jizzyharada-bit/-/releases/download/gta/laun.py",
+  "replace_files": [
+    {
+      "url": "https://disk.yandex.com/d/xP-4e69tnpN6pw",
+      "name": "ServerConnect.json"
+    },
+    {
+      "url": "https://disk.yandex.com/d/27Pla9Y2N2SBUg",
+      "name": "ServerConnect.asi"
+    }
+  ],
   "news": [
     {
-       "tag": "НОВОСТИ",
-       "title": "ОТКРЫТИЕ SPEEK ONLINE",
-       "text": "Добро пожаловать на абсолютно новую копию Radmir CRMP! Мы подготовили стабильный мод, уникальные системы, отличный пинг и отзывчивую администрацию."
+      "tag": "ОБНОВЛЕНИЕ",
+      "title": "ОТКРЫТИЕ SPEEK ONLINE",
+      "text": "Добро пожаловать! Мы успешно перевели лаунчер на динамическое обновление файлов через облако GitHub."
+    },
+    {
+      "tag": "ВАЖНО",
+      "title": "ТЕХНИЧЕСКИЕ РАБОТЫ",
+      "text": "Если у вас возникают проблемы с подключением, обратитесь в наш Discord."
     }
   ]
 }
